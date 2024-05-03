@@ -6,5 +6,5 @@ function solution(n) {
     } else {
         answer = Math.pow( num + 1 , 2); 
     }
-    return answer
+    return answer;
 }
